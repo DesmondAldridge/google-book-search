@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://bookworm123:bookworm123@cluster0.8gp71.mongodb.net/googlebooks?retryWrites=true&w=majority"
+}
