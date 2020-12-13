@@ -2,7 +2,7 @@ form {
   background-image: url('./books-search.jpeg');
   background-size: 75%;
   width: 100%;
-  height: 150%;
+  height: 800%;
   border-radius: 25px;
 }
 
@@ -10,16 +10,20 @@ form {
   width: 40%;
   border-radius: 25px;
   margin-left: 20px;
+  font-weight: 700;
+  font-family: cursive;
 }
 
 .submitBtn {
-  background-image: url('./67HkWD.png');
+  background-image: url('./pile-of-books.png');
   background-size: 80%;
   border-radius: 25px;
-  margin-top: 5px;
-  margin-left: 20px;
+  margin-top: 8px;
+  margin-left: 30px;
   color: rgb(46, 35, 0);
   font-family: cursive;
-  font-size: 25px;
+  font-size: 14px;
   font-weight: 900;
+  padding: .3%;
+  
 }

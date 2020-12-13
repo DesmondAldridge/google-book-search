@@ -17,7 +17,7 @@ const Form = (props) => {
       </div>
       <button
         type='submit'
-        className='submitBtn btn btn-primary'
+        className='submitBtn'
         onClick={props.handleFormSubmit}
       >
         Search

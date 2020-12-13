@@ -1,0 +1,32 @@
+nav {
+  background-image: linear-gradient(
+    rgb(90, 52, 8),
+    rgb(134, 76, 10),
+    rgb(134, 76, 10),
+    rgb(235, 172, 101)
+  );
+}
+
+#navbarNav {
+  background-color: rgb(19, 48, 2);
+  border-radius: 25px;
+}
+
+h2 {
+  font-family: cursive;
+  font-weight: 800;
+  color: rgb(255, 198, 157);
+}
+
+.btn {
+  background-image: url('./pile-of-books.png');
+  background-size: 80%;
+  border-radius: 25px;
+
+ 
+  color: rgb(168, 15, 214);
+  font-family: cursive;
+  font-size: 15px;
+  font-weight: 900;
+  padding: 0.3%;
+}
